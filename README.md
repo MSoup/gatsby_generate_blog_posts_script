@@ -2,7 +2,7 @@
 
 # Release History
 Oct 14 / 2021
-- version 0.01 alpha
+Version 0.01 alpha
 
 This is a script that allows me automate the publishing process for my blog posts.
 
