@@ -1,5 +1,9 @@
 # Gatsby Blog Publisher
 
+# Release History
+Oct 14 / 2021
+- version 0.01 alpha
+
 This is a script that allows me automate the publishing process for my blog posts.
 
 It works by allowing me to write blog posts in the root/WIP directory of a gatsbyJS project. When ready to publish, I can run this script to: 
